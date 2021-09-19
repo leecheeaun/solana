@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.cdx": "cadence"
+    },
+    "search.exclude": {
+        "**/target": true
+    },
+    "lldb.verboseLogging": true    
+}
